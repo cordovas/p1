@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,7 +9,7 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <h1>Hello World</h1>
+    <h1>Steve Cordova</h1>
     <img src="images/0.jpeg" alt="">
     
 </body>
