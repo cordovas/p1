@@ -3,6 +3,6 @@
 + Production URL: <http://p1.stevecordova.me>
 
 ## Outside resources
-/na
+http://php.net/manual/en/function.in-array.php
 ## Notes for instructor
 /na
