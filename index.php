@@ -18,6 +18,8 @@ $quotes = [
     <meta name="mobile-web-app-capable" content="yes">
     <title>Hello World</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0, minimal-ui" /> -->
     <link rel="stylesheet" type="text/css" media="screen" href="css/main.css" />
 </head>
 <body>
